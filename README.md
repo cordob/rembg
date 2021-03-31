@@ -45,6 +45,12 @@ pip uninstall typing
 
 ### Usage as a cli
 
+
+### 명령어
+
+rembg -o out.png in.jpg
+
+
 Remove the background from a remote image
 ```bash
 curl -s http://input.png | rembg > output.png
