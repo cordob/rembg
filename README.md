@@ -55,6 +55,13 @@ Language: Python
 CUDA: None
 ```
 
+conda install
+
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+
+bash Miniconda3-latest-Linux-x86_64.sh
+
+
 The install cmd is:
 ```
 pip install torch==1.7.1+cpu torchvision==0.8.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
